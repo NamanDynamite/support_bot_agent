@@ -1,0 +1,12 @@
+2025-03-10 20:22:21,639 - INFO - Use pytorch device_name: cpu
+2025-03-10 20:22:21,639 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-03-10 20:22:28,097 - INFO - Loaded document: faq.txt with 3 sections.
+2025-03-10 20:22:28,113 - INFO - Processing query: How do I reset my password?
+2025-03-10 20:22:28,204 - INFO - Relevant section found for query: How do I reset my password? (score: 0.80)
+2025-03-10 20:22:45,313 - INFO - Relevant section found for query: How do I reset my password? (score: 0.80)
+2025-03-10 20:23:03,104 - INFO - Processing query: What’s the refund policy?
+2025-03-10 20:23:03,195 - INFO - Relevant section found for query: What’s the refund policy? (score: 0.63)
+2025-03-10 20:23:09,096 - INFO - Processing query: How do I contact support?
+2025-03-10 20:23:09,177 - INFO - Relevant section found for query: How do I contact support? (score: 0.71)
+2025-03-10 20:23:15,374 - INFO - Processing query: How do I fly to the moon?
+2025-03-10 20:23:15,488 - INFO - No highly relevant section found for query: How do I fly to the moon? (score: 0.02)
