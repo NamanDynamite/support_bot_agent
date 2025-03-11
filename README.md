@@ -60,7 +60,6 @@ customer-support-bot/
 │── support_bot_agent.py  # Main bot script
 │── faq.txt               # Sample document (or use a PDF)
 │── support_bot_log.txt   # Log file
-│── requirements.txt      # Dependencies
 │── README.md             # Documentation
 ```
 
