@@ -68,6 +68,3 @@ customer-support-bot/
 - Implement a web-based UI for interactions.
 - Store user feedback for continuous learning.
 - Support multiple document formats.
-
-## License
-This project is licensed under the MIT License.
